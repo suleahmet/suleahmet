@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi! I'm Şule Ahmet, a Mathematical Engineering student at Yildiz Technical University.
+I have experience with the C programming language and I'm currently focused on improving my skills by learning new technologies.
+My interests include data science, artificial intelligence, and software development.
+
+📫 Reach me at: ametsule0@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/şule-amet-8542a8228/
 
 <!--
 **suleahmet/suleahmet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
